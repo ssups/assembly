@@ -4,6 +4,8 @@ coverage
 coverage.json
 typechain
 typechain-types
+package-lock.json
+.DS_Store
 
 # Hardhat files
 cache
